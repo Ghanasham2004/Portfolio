@@ -132,7 +132,7 @@ function loadData() {
     .map((item) => {
       return `
      <div class="item">
-            <img src="/assets/logos/${item}" alt="${item}" />
+            <img src="./assets/logos/${item}" alt="${item}" />
       </div>
       `;
     })
