@@ -114,7 +114,7 @@ function loadData() {
        }
      </p>
      <div class="${!item.isVisible ? "img" : "img active"}">
-          <img src="/assets/${item.img}" alt="MERN" />
+          <img src="./assets/${item.img}" alt="MERN" />
         </div>
      </div>
       ${
