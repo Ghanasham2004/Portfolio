@@ -188,7 +188,7 @@ const getAboutPage = () => {
         <section class="section-content about">
         <div class="container" data-aos="fade-up" data-aos-duration="800">
           <div class="right">
-            <img src="/assets/about2.jpg" alt="about" />
+            <img src="./assets/about2.jpg" alt="about" />
           </div>
           <div class="left use-w">
             <h1 class="fs">Digital Experiences with <br />Passion</h1>
@@ -264,7 +264,7 @@ const getSkills = () => {
       .map((url) => {
         return `
         <div class="item">
-          <img src="/assets/logos/${url}" alt="skill" />
+          <img src="./assets/logos/${url}" alt="skill" />
         </div>
         `;
       })

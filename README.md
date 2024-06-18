@@ -32,7 +32,7 @@ Welcome to my personal portfolio! This project showcases my work, skills, and th
 
 ## Deployment
 
-🌐 Check out the deployed version of my portfolio [here](https://your-deployed-page-link).
+🌐 Check out the deployed version of my portfolio [visit here](https://ghanasham2004.github.io/Portfolio/).
 
 ## Build Information
 
